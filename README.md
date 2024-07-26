@@ -3,7 +3,7 @@
 Loads Weather info from selected Cities
 
 ## Authored by:
- Mohammad Abu Khdier  && Mohammad Abd Aliz
+ Mohammad Abu Khdier  && Mohammad Abd alziz
 
 ## Link
 [Project](https://postjceac-my.sharepoint.com/:f:/g/personal/mohammadabk_post_jce_ac_il/Eh27Ie6OAv5BkaGmCaDP6lYBzQZag-6iv1ObWFVO3ls70A)
@@ -18,6 +18,7 @@ Loads Weather info from selected Cities
 - unzip it and run the .sln file to open up visual studio
 
 ### Usage
+- set the connected app as the startup
 - inside visual studio run the project by pressing F5
 
 ### Files
