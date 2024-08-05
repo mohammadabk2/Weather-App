@@ -3,7 +3,7 @@
 Loads Weather info from selected Cities
 
 ## Authored by:
- Mohammad Abu Khdier  && Mohammad Abd alziz
+ Mohammad Abu Khdier  && Mohammad Abd al-Aziz
 
 ## Link
 [Project](https://postjceac-my.sharepoint.com/:f:/g/personal/mohammadabk_post_jce_ac_il/Eh27Ie6OAv5BkaGmCaDP6lYBzQZag-6iv1ObWFVO3ls70A)
