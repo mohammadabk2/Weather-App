@@ -21,6 +21,8 @@ Loads Weather info from selected Cities
 - set the connected app as the startup
 - inside visual studio run the project by pressing F5
 
+![](./digram.drawio.svg)
+
 ### Files
 - apiAccess.cpp:  uses the api to get info about a city
 - CommonObects.h: has the object defenations being passed between threads
