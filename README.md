@@ -9,17 +9,20 @@ Loads Weather info from selected Cities
 [Project](https://postjceac-my.sharepoint.com/:f:/g/personal/mohammadabk_post_jce_ac_il/Eh27Ie6OAv5BkaGmCaDP6lYBzQZag-6iv1ObWFVO3ls70A)
 
  ## Features
- - Can Save Favorited cities
  - Search Cities by name
+ - set cities as Favourites
+ - remove cities from list
 
  ### Setup
 - Follow the link in the gitHub to the drive
 - Downlaod the zip file from the drive
 - unzip it and run the .sln file to open up visual studio
+- or download the Release folder with everything already setup
 
 ### Usage
 - set the connected app as the startup
 - inside visual studio run the project by pressing F5
+- or run the .exe from the Release folder
 
 ![](./digram.drawio.svg)
 
